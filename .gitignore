@@ -1,0 +1,3 @@
+# Never publish signing keys or live credentials
+*.pem
+config.json

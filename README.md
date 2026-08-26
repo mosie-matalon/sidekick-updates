@@ -11,3 +11,5 @@ Contains **no API keys or credentials**: those are delivered separately through
 Chrome enterprise policy. Every publish is scanned by `verify-crx.mjs` first.
 
 <!-- redeploy 2026-08-17T18:54:45Z -->
+
+<!-- redeploy 2026-08-26T16:20:29Z -->
